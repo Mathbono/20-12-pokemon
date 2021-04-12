@@ -1,0 +1,7 @@
+.cache/
+*.yml
+*.css
+package-lock.json
+public/
+build/
+dist/
